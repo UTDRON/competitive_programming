@@ -36,4 +36,5 @@ assert padovan(15) == 49, "should be 49"
 assert padovan(40) == 55405, "should be 55405"
 assert padovan(65) == 62608681, "should be 62608681"
 
-print(padovan(1000000)) # takes 7-8 secs
+# print(padovan(1000000)) # takes 7-8 secs
+print(padovan(193)) # takes 7-8 secs
