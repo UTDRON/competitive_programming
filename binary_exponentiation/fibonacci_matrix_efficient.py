@@ -75,4 +75,4 @@ assert fibonacci(13) == 233, "should be 233"
 assert fibonacci(15) == 610, "should be 610"
 assert fibonacci(40) == 102334155, "should be 102334155"
 
-print(fibonacci(500000)) # takes 4-5 secs
+print(fibonacci(500000)) # takes 2 secs
