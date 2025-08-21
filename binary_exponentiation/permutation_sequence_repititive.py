@@ -58,7 +58,7 @@ def execute(s: list, p: list) -> list:
 
     return s
 
-def apply(s: list, p: list, k) -> list:
+def apply(s: list, p: list, k: int) -> list:
     if k == 0:
         return s
     
